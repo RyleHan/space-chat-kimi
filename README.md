@@ -1,4 +1,5 @@
 # 星域通信站 (KIMI 太空探索聊天界面)
+![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)
 
 一个沉浸式太空聊天体验，模拟与迷失在宇宙中的 AI 探测机器人 KIMI-7 进行通信。
 
@@ -49,3 +50,9 @@
 ## 故事背景
 
 在2187年，由"月之暗面"公司研发的 KIMI-7 高级探矿机器人在艾普西隆-482行星执行任务时遭遇彗星碎片雨，通讯和导航系统受损。用户扮演地球指挥员，需要通过星际通讯协助 KIMI-7 修复系统、找回矿石样本并安全返回基地。
+
+## 📜 版权声明
+
+本项目由 [Erhan Lai](https://github.com/RyleHan/space-chat-kimi) 独立设计与开发，版权所有 © 2025。
+
+本项目遵循 [CC BY-NC-ND 4.0 License](https://creativecommons.org/licenses/by-nc-nd/4.0/)，禁止用于商业用途与改编创作，转载请注明出处。

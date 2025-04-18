@@ -1,3 +1,11 @@
+/**
+ * 星域通信站 (KIMI 太空探索聊天界面)
+ * 
+ * © 2025 [Erhan Lai]
+ * 本代码采用 CC BY-NC 4.0 许可证 (https://creativecommons.org/licenses/by-nc/4.0/)
+ * 允许非商业性使用，但必须保留作者署名。
+ */
+
 import { useState, useRef, useEffect } from 'react';
 import './SpaceChat.css';
 import { getAIResponse, resetConversation } from './services/aiService';
