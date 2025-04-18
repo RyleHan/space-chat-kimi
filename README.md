@@ -1,12 +1,51 @@
-# React + Vite
+# 星域通信站 (KIMI 太空探索聊天界面)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+一个沉浸式太空聊天体验，模拟与迷失在宇宙中的 AI 探测机器人 KIMI-7 进行通信。
 
-Currently, two official plugins are available:
+## 项目特点
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🌠 动态星空背景
+- 👨‍🚀 角色扮演互动故事
+- 📊 太空探测器状态监控
+- 🪐 行星环境信息实时更新
+- 🤖 与 AI 深度对话
 
-## Expanding the ESLint configuration
+## 技术栈
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React + Vite
+- CSS 动画与过渡效果
+- Canvas 星空效果
+- Moonshot AI API 集成
+
+## 演示
+
+访问 [在线演示](https://空链接-部署后填写) 体验这个项目。
+
+## 运行项目
+
+1. 克隆项目
+   ```bash
+   git clone https://github.com/your-username/space-chat-kimi.git
+   cd space-chat-kimi
+   ```
+
+2. 安装依赖
+   ```bash
+   npm install
+   ```
+
+3. 创建 `.env` 文件并添加 Moonshot API 密钥
+   ```
+   VITE_MOONSHOT_API_KEY=your_api_key_here
+   ```
+
+4. 启动开发服务器
+   ```bash
+   npm run dev
+   ```
+
+5. 访问 `http://localhost:5173/` 查看应用
+
+## 故事背景
+
+在2187年，由"月之暗面"公司研发的 KIMI-7 高级探矿机器人在艾普西隆-482行星执行任务时遭遇彗星碎片雨，通讯和导航系统受损。用户扮演地球指挥员，需要通过星际通讯协助 KIMI-7 修复系统、找回矿石样本并安全返回基地。
