@@ -20,7 +20,7 @@
 
 ## 演示
 
-访问 [在线演示](https://空链接-部署后填写) 体验这个项目。
+访问 [在线演示](https://space-chat-kimi-git-main-rylehans-projects.vercel.app/) 体验这个项目。
 
 ## 运行项目
 
